@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "putihbersih",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "55cf9670-da1a-4569-9b12-26f4d9f0081e",
+			"database_name": "putihbersih"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
